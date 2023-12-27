@@ -26,6 +26,7 @@ cucumber-report.json
 **/venv*/
 /env
 /venv
+/src.egg-info
 port.txt
 precommit.hook
 pythonFiles/lib/**
